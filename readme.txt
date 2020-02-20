@@ -1,2 +1,4 @@
 Hello!
-¡Hola!
+
+Español: ¡Hola!
+French: Bonjour! Salut! 
